@@ -7,6 +7,6 @@ By the help of Android AlarmManager in android, you can schedule your applicatio
 The Android AlarmManager holds a CPU wake lock that provides guarantee not to sleep the phone until broadcast is handled.
 
 # Screenshots
-![](assets/one.png)
-![](assets/two.png)
-![](assets/three.png)
+![](assets/one.jpg)
+![](assets/two.jpg)
+![](assets/three.jpg)
